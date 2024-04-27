@@ -1,4 +1,4 @@
 def narsingh():
     print("hello")
-    print("Bhai")
+    print("Bhai tum kaise ho ??")
     return None
